@@ -4,6 +4,7 @@ title: CV
 permalink: /cv/
 nav: true
 nav_order: 5
-cv_pdf: Personal_CV_for_PhD.pdf
+cv_format: rendercv
+cv_pdf: /assets/rendercv/rendercv_output/CV.pdf
 description: Curriculum Vitae of Shengjie Gong
 ---

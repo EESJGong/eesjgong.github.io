@@ -8,148 +8,101 @@ cv:
       username: EESJGong
 
   sections:
-    education:
+    Research Interests:
+      - LLM-based Agents
+      - World Models
+      - Physically Grounded 3D Generation
+
+    Education:
       - institution: South China University of Technology
         area: Information and Communication Engineering
         degree: M.S.
-        start_date: 2024-09
-        end_date: 2027-06
+        date: Sep. 2024 -- Jun. 2027 (Expected)
         location: Guangzhou, China
         highlights:
-          - "School of Electronic and Information Engineering"
-          - "Advisor: Prof. Shuangping Huang"
-          - "Average Score: 90/100"
+          - School of Electronic and Information Engineering
+          - Advisor: Prof. Shuangping Huang
+          - Average Score: 90/100
 
       - institution: South China University of Technology
         area: Information Engineering (Innovation Class)
         degree: B.Eng.
-        start_date: 2020-09
-        end_date: 2024-06
+        date: Sep. 2020 -- Jun. 2024
         location: Guangzhou, China
         highlights:
-          - "GPA: 3.99/4.00"
-          - "Weighted Average: 95/100"
-          - "Rank: 1/54"
+          - GPA: 3.99/4.00
+          - Weighted Average: 95/100
+          - Rank: 1/54
 
-    research_interests:
-      - bullet: "LLM-based Agents"
-      - bullet: "World Models"
-      - bullet: "Physically Grounded 3D Generation"
-
-    publications:
-      - title: "Learning Hierarchical and Geometry-Aware Graph Representations for Text-to-CAD"
-        authors: "Shengjie Gong, Wenjie Peng, Hongyuan Chen, Gangyu Zhang, Yunqing Hu, Huiyuan Zhang, Shuangping Huang, Tianshui Chen"
-        venue: "International Conference on Learning Representations (ICLR)"
+    Publications:
+      - title: Learning Hierarchical and Geometry-Aware Graph Representations for Text-to-CAD
+        authors: Shengjie Gong, Wenjie Peng, Hongyuan Chen, Gangyu Zhang, Yunqing Hu, Huiyuan Zhang, Shuangping Huang, Tianshui Chen
+        journal: International Conference on Learning Representations (ICLR)
         date: 2026
         highlights:
-          - "First author"
+          - First author
 
-      - title: "Monocular and Generalizable Gaussian Talking Head Animation"
-        authors: "Shengjie Gong, Haojie Li, Jiapeng Tang, Dongming Hu, Shuangping Huang, Hao Chen, Tianshui Chen, Zhuoman Liu"
-        venue: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+      - title: Monocular and Generalizable Gaussian Talking Head Animation
+        authors: Shengjie Gong, Haojie Li, Jiapeng Tang, Dongming Hu, Shuangping Huang, Hao Chen, Tianshui Chen, Zhuoman Liu
+        journal: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
         date: 2025
         highlights:
-          - "First author"
+          - First author
 
-      - title: "KMTalk: Speech-Driven 3D Facial Animation with Key Motion Embedding"
-        authors: "Zhihao Xu, Shengjie Gong, Jiapeng Tang, Lingyu Liang, Yining Huang, Haojie Li, Shuangping Huang"
-        venue: "European Conference on Computer Vision (ECCV)"
+      - title: KMTalk: Speech-Driven 3D Facial Animation with Key Motion Embedding
+        authors: Zhihao Xu, Shengjie Gong, Jiapeng Tang, Lingyu Liang, Yining Huang, Haojie Li, Shuangping Huang
+        journal: European Conference on Computer Vision (ECCV)
         date: 2024
         highlights:
-          - "Co-first author"
+          - Co-first author
 
-      - title: "A Unified Framework of Multi-Stage Multi-Winner Voting: An Axiomatic Exploration"
-        authors: "Shengjie Gong, Lingxiao Huang, Shuangping Huang, Yuyi Wang, Zhiqi Wang, Tao Xiao, Xiang Yan, Chunxue Yang"
-        venue: "International Conference on Mathematical Optimization Theory and Operations Research (MOTOR)"
+      - title: A Unified Framework of Multi-Stage Multi-Winner Voting: An Axiomatic Exploration
+        authors: Shengjie Gong, Lingxiao Huang, Shuangping Huang, Yuyi Wang, Zhiqi Wang, Tao Xiao, Xiang Yan, Chunxue Yang
+        journal: International Conference on Mathematical Optimization Theory and Operations Research (MOTOR)
         date: 2024
 
-      - title: "Enhancing Feature Extraction in DBNet: A Novel Approach with Squeeze-and-Excitation Block and CBAM Module"
-        authors: "Shengjie Gong, Xinwei Zheng"
-        venue: "2023 IEEE 5th International Conference on Civil Aviation Safety and Information Technology (ICCASIT)"
-        date: 2023
-
-      - title: "Intelligent Advertisement Recommendation Software Based on Keyword Extraction and Cosine Similarity Algorithm"
-        authors: "Shengjie Gong"
-        venue: "Information Technology and Informatization"
-        date: 2022
-
-    experience:
+    Research Experience:
       - company: South China University of Technology
-        position: "Project Lead / First Author, Research on Text-to-CAD Generation"
+        position: Project Lead / First Author, Research on Text-to-CAD Generation
+        date: 2024 -- Present
         location: Guangzhou, China
-        start_date: 2024
-        end_date: present
         highlights:
-          - "Studied long-horizon Text-to-CAD generation with a focus on maintaining assembly coherence and geometric constraints."
-          - "Developed a modular three-stage pipeline that maps natural language instructions to geometric decomposition graphs, CAD action sequences, and executable bpy code."
-          - "Explored structure-aware progressive curriculum learning to improve robustness on complex, highly constrained CAD assemblies."
-          - "Positioned the system as an LLM-driven structured generation framework with strong controllability and execution fidelity."
+          - Studied long-horizon Text-to-CAD generation with a focus on maintaining assembly coherence and geometric constraints.
+          - Developed a modular three-stage pipeline that maps natural language instructions to geometric decomposition graphs, CAD action sequences, and executable bpy code.
+          - Explored structure-aware progressive curriculum learning to improve robustness on complex, highly constrained CAD assemblies.
 
       - company: Independent Open-Source Project (ScholarSkill)
-        position: "Project Lead / Open-Source Developer, OpenClaw Skill Development for Academic Reading and Knowledge Evolution"
+        position: Project Lead / Open-Source Developer
+        date: 2025 -- Present
         location: Remote
-        start_date: 2025
-        end_date: present
         highlights:
-          - "Developed ScholarSkill, an OpenClaw skill for building an Obsidian-centered academic reading workflow."
-          - "Designed workflow modules for structured paper reading, knowledge linking, cognitive revision, and critical thinking."
-          - "Integrated the project into the OpenClaw skill ecosystem with bilingual packaging and dependency-based setup."
+          - Developed ScholarSkill, an OpenClaw skill for structured academic reading and knowledge evolution.
+          - Designed workflow modules for knowledge linking, cognitive revision, and iterative refinement.
 
       - company: South China University of Technology
-        position: "Project Lead / First Author or Co-First Author, Research on 3D Digital Humans and Talking Head Generation"
+        position: Project Lead / First Author or Co-First Author, Research on 3D Digital Humans and Talking Head Generation
+        date: 2023 -- 2025
         location: Guangzhou, China
-        start_date: 2023
-        end_date: 2025
         highlights:
-          - "Worked on speech-driven 3D facial animation and Gaussian-based talking head generation."
-          - "Investigated lip-sync, motion completion, full-face synthesis, identity generalization, and real-time rendering."
-          - "Built a coherent research trajectory from digital humans to general 3D generative modeling and neural rendering."
+          - Worked on speech-driven 3D facial animation and Gaussian-based talking head generation.
+          - Investigated lip-sync, motion completion, full-face synthesis, identity generalization, and real-time rendering.
 
-      - company: South China University of Technology; China Unicom Guangdong
-        position: "Project Lead / Research Developer, Research on Vision Inspection and Industrial Anomaly Detection"
-        location: Guangzhou, China
-        start_date: 2023
-        end_date: 2025
-        highlights:
-          - "Conducted research on OCR, object detection, and industrial visual inspection."
-          - "Improved DBNet for scene text and digit detection by integrating SE and CBAM modules."
-          - "Built a multi-stage inspection workflow achieving site inspection accuracy above 95% with miss rate below 5%."
+    Honors and Awards:
+      - National Scholarship, 2025
+      - Special Scholarship, GAC Scholarship, 2023
+      - Finalist Award, Mathematical Contest in Modeling (MCM/ICM), COMAP (top 2%), 2023
+      - Top Special Scholarship, Goodix Technology Scholarship, 2022
+      - Second Prize, Guangdong Division, China Undergraduate Mathematical Contest in Modeling, 2022
+      - National Scholarship, 2021
 
-      - company: South China University of Technology
-        position: "Project Lead / First Author, Research on Computational Social Choice"
-        location: Guangzhou, China
-        start_date: 2021
-        end_date: 2024
-        highlights:
-          - "Studied multi-stage multi-winner voting from an axiomatic perspective."
-          - "Focused on formal analysis, theorem-oriented reasoning, and empirical validation."
-
-    honors_and_awards:
-      - bullet: "National Scholarship, 2025"
-      - bullet: "Special Scholarship, GAC Scholarship, 2023"
-      - bullet: "Finalist Award, Mathematical Contest in Modeling (MCM/ICM), COMAP (top 2%), 2023"
-      - bullet: "Top Special Scholarship, Goodix Technology Scholarship, 2022"
-      - bullet: "Second Prize, Guangdong Division, China Undergraduate Mathematical Contest in Modeling, 2022"
-      - bullet: "National Scholarship, 2021"
-
-    leadership_and_service:
-      - company: South China University of Technology
-        position: "Minister, Academic Affairs Department, Student Union"
-        location: Guangzhou, China
-        start_date: 2022
-        end_date: 2023
-        highlights:
-          - "Organized academic activities and student events."
-          - "Coordinated departmental publicity and academic communication."
-
-    skills:
-      - label: "LLM / Agent Systems"
-        details: "LLM-driven structured generation, agent workflows, tool-augmented reasoning, knowledge-centric scholarly agents"
-      - label: "Model Training and Adaptation"
-        details: "PyTorch, LoRA-based fine-tuning, generative curriculum learning, progressive capability expansion"
-      - label: "3D Generative Modeling"
-        details: "Digital humans, neural rendering, Gaussian splatting, text-guided 3D/CAD synthesis"
-      - label: "Vision and Perception"
-        details: "Object detection, OCR, industrial anomaly detection, visual inspection"
-      - label: "Technical Stack"
-        details: "Python, C++, Linux, Git, OpenClaw, Blender"
+    Skills:
+      - label: LLM / Agent Systems
+        details: LLM-driven structured generation, agent workflows, tool-augmented reasoning, knowledge-centric scholarly agents
+      - label: Model Training and Adaptation
+        details: PyTorch, LoRA-based fine-tuning, generative curriculum learning, progressive capability expansion
+      - label: 3D Generative Modeling
+        details: Digital humans, neural rendering, Gaussian splatting, text-guided 3D/CAD synthesis
+      - label: Vision and Perception
+        details: Object detection, OCR, industrial anomaly detection, visual inspection
+      - label: Technical Stack
+        details: Python, C++, Linux, Git, OpenClaw, Blender
