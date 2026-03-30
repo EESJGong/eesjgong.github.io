@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "Curriculum Vitae of Shengjie Gong",
+          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -405,16 +405,17 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-our-paper-learning-hierarchical-and-geometry-aware-graph-representations-for-text-to-cad-has-been-accepted-to-iclr-2026",
+          title: '🎉 Our paper “Learning Hierarchical and Geometry-Aware Graph Representations for Text-to-CAD” has been...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-open-sourced-my-openclaw-paper-reading-skill-designed-to-support-structured-academic-reading-knowledge-linking-and-iterative-knowledge-evolution",
+          title: '🚀 Open-sourced my OpenClaw paper-reading skill, designed to support structured academic reading, knowledge...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-released-the-github-repository-for-our-iclr-2026-paper-on-text-to-cad",
+          title: '💻 Released the GitHub repository for our ICLR 2026 paper on Text-to-CAD.',
+          description: "",
+          section: "News",},{id: "news-launched-this-personal-academic-website-to-share-my-research-publications-and-ongoing-projects",
+          title: '🌐 Launched this personal academic website to share my research, publications, and ongoing...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
