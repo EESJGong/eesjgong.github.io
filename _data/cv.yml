@@ -1,108 +1,189 @@
 cv:
-  name: Shengjie Gong
-  location: Guangzhou, China
-  email: jackeygong2002@gmail.com
-  website: https://eesjgong.github.io/
+  name: Albert Einstein
+  label: Scientist
+  email: einstein@example.com
+  location: Princeton, NJ
+  image: ""
+  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+
   social_networks:
+    - network: X
+      username: AlbertEinstein
     - network: GitHub
-      username: EESJGong
+      username: example
+    - network: LinkedIn
+      username: example
+
+  address:
+    street: 2712 Broadway St
+    city: San Francisco
+    region: California
+    postalCode: CA 94115
+    countryCode: US
 
   sections:
-    Research Interests:
-      - LLM-based Agents
-      - World Models
-      - Physically Grounded 3D Generation
-
     Education:
-      - institution: South China University of Technology
-        area: Information and Communication Engineering
-        degree: M.S.
-        date: Sep. 2024 -- Jun. 2027 (Expected)
-        location: Guangzhou, China
+      - institution: University of Zurich
+        location: Zurich, Switzerland
+        url: https://www.uzh.ch/
+        area: Physics
+        studyType: PhD
+        start_date: 1900
+        end_date: 1905
+        score: ""
+        courses: "Theory of Relativity"
         highlights:
-          - School of Electronic and Information Engineering
-          - Advisor: Prof. Shuangping Huang
-          - Average Score: 90/100
+          - Description 1.
+          - Description 2.
 
-      - institution: South China University of Technology
-        area: Information Engineering (Innovation Class)
-        degree: B.Eng.
-        date: Sep. 2020 -- Jun. 2024
-        location: Guangzhou, China
+      - institution: Eidgenössische Technische Hochschule
+        location: Zurich, Switzerland
+        area: Physics
+        studyType: Federal teaching diploma
+        start_date: 1896
+        end_date: 1900
         highlights:
-          - GPA: 3.99/4.00
-          - Weighted Average: 95/100
-          - Rank: 1/54
+          - Description 1.
+          - Description 2.
+
+    Experience:
+      - company: Institute for Advanced Study, Princeton University
+        position: Professor of Theoretical Physics
+        location: Princeton University, NJ
+        start_date: 1933
+        end_date: 1955
+        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+        highlights:
+          - Relativity
+          - Description 2.
+
+      - company: California Institute of Technology
+        position: Visiting Professor
+        location: Pasadena, California, US
+        start_date: 1933
+        end_date: 1933
+        highlights:
+          - Description 1.
+          - Description 2.
+
+      - company: Kaiser Wilhelm Institute for Physics
+        position: Director
+        location: Berlin, Germany
+        start_date: 1917
+        end_date: 1933
+
+      - company: Karl-Ferdinand University
+        position: Professor of Theoretical Physics
+        location: Prague, Czechoslovakia
+        start_date: 1911
+        end_date: 1917
+
+      - company: University of Zurich
+        position: Associate Professor of Theoretical Physics
+        location: Zurich, Switzerland
+        start_date: 1909
+        end_date: 1911
+
+    Volunteer:
+      - company: People's Climate March
+        position: Lead Organizer
+        location: Zurich, Switzerland
+        start_date: 2014-04-01
+        end_date: 2015-07-01
+        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+        highlights:
+          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
+          - "Men of the year 2014 by Time magazine"
+
+    Awards:
+      - title: Nobel Prize in Physics
+        authors:
+          - "Royal Swedish Academy of Sciences"
+        date: 1921-11-01
+        awarder: Royal Swedish Academy of Sciences
+        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+
+      - title: Max Planck Medal
+        authors:
+          - "German Physical Society"
+        date: 2029
+        awarder: German Physical Society
+        summary: Awarded for outstanding scientific achievement
 
     Publications:
-      - title: Learning Hierarchical and Geometry-Aware Graph Representations for Text-to-CAD
-        authors: Shengjie Gong, Wenjie Peng, Hongyuan Chen, Gangyu Zhang, Yunqing Hu, Huiyuan Zhang, Shuangping Huang, Tianshui Chen
-        journal: International Conference on Learning Representations (ICLR)
-        date: 2026
-        highlights:
-          - First author
+      - title: Zur Elektrodynamik bewegter Körper
+        authors:
+          - Albert Einstein
+        publisher: Annalen der Physik
+        releaseDate: 1905-06-30
+        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
+        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
 
-      - title: Monocular and Generalizable Gaussian Talking Head Animation
-        authors: Shengjie Gong, Haojie Li, Jiapeng Tang, Dongming Hu, Shuangping Huang, Hao Chen, Tianshui Chen, Zhuoman Liu
-        journal: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
-        date: 2025
-        highlights:
-          - First author
+      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+        authors:
+          - Albert Einstein
+        publisher: Annalen der Physik
+        releaseDate: 1905-03-18
+        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
+        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
 
-      - title: KMTalk: Speech-Driven 3D Facial Animation with Key Motion Embedding
-        authors: Zhihao Xu, Shengjie Gong, Jiapeng Tang, Lingyu Liang, Yining Huang, Haojie Li, Shuangping Huang
-        journal: European Conference on Computer Vision (ECCV)
-        date: 2024
-        highlights:
-          - Co-first author
-
-      - title: A Unified Framework of Multi-Stage Multi-Winner Voting: An Axiomatic Exploration
-        authors: Shengjie Gong, Lingxiao Huang, Shuangping Huang, Yuyi Wang, Zhiqi Wang, Tao Xiao, Xiang Yan, Chunxue Yang
-        journal: International Conference on Mathematical Optimization Theory and Operations Research (MOTOR)
-        date: 2024
-
-    Research Experience:
-      - company: South China University of Technology
-        position: Project Lead / First Author, Research on Text-to-CAD Generation
-        date: 2024 -- Present
-        location: Guangzhou, China
-        highlights:
-          - Studied long-horizon Text-to-CAD generation with a focus on maintaining assembly coherence and geometric constraints.
-          - Developed a modular three-stage pipeline that maps natural language instructions to geometric decomposition graphs, CAD action sequences, and executable bpy code.
-          - Explored structure-aware progressive curriculum learning to improve robustness on complex, highly constrained CAD assemblies.
-
-      - company: Independent Open-Source Project (ScholarSkill)
-        position: Project Lead / Open-Source Developer
-        date: 2025 -- Present
-        location: Remote
-        highlights:
-          - Developed ScholarSkill, an OpenClaw skill for structured academic reading and knowledge evolution.
-          - Designed workflow modules for knowledge linking, cognitive revision, and iterative refinement.
-
-      - company: South China University of Technology
-        position: Project Lead / First Author or Co-First Author, Research on 3D Digital Humans and Talking Head Generation
-        date: 2023 -- 2025
-        location: Guangzhou, China
-        highlights:
-          - Worked on speech-driven 3D facial animation and Gaussian-based talking head generation.
-          - Investigated lip-sync, motion completion, full-face synthesis, identity generalization, and real-time rendering.
-
-    Honors and Awards:
-      - National Scholarship, 2025
-      - Special Scholarship, GAC Scholarship, 2023
-      - Finalist Award, Mathematical Contest in Modeling (MCM/ICM), COMAP (top 2%), 2023
-      - Top Special Scholarship, Goodix Technology Scholarship, 2022
-      - Second Prize, Guangdong Division, China Undergraduate Mathematical Contest in Modeling, 2022
-      - National Scholarship, 2021
+      - title: Die Grundlage der allgemeinen Relativitätstheorie
+        authors:
+          - Albert Einstein
+        publisher: Annalen der Physik
+        releaseDate: 1916-03-20
+        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
+        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
 
     Skills:
-      - label: LLM / Agent Systems
-        details: LLM-driven structured generation, agent workflows, tool-augmented reasoning, knowledge-centric scholarly agents
-      - label: Model Training and Adaptation
-        details: PyTorch, LoRA-based fine-tuning, generative curriculum learning, progressive capability expansion
-      - label: 3D Generative Modeling
-        details: Digital humans, neural rendering, Gaussian splatting, text-guided 3D/CAD synthesis
-      - label: Vision and Perception
-        details: Object detection, OCR, industrial anomaly detection, visual inspection
-      - label: Technical Stack
-        details: Python, C++, Linux, Git, OpenClaw, Blender
+      - name: Physics
+        level: Master
+        icon: fa-solid fa-hashtag
+        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+
+    Languages:
+      - name: German
+        summary: "Native speaker"
+
+      - name: English
+        summary: "Fluent"
+
+    Interests:
+      - name: Physics
+        icon: fa-solid fa-tag
+        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+
+    Certificates:
+      - name: Machine Learning
+        date: 2018-01-01
+        issuer: Stanford University
+        icon: fa-solid fa-location-dot
+
+      - name: Quantum Computing
+        date: 2018-01-01
+        issuer: Stanford University
+        icon: fa-solid fa-tag
+
+      - name: Quantum Information
+        date: 2018-01-01
+        issuer: Stanford University
+        icon: fa-solid fa-envelope
+
+    Projects:
+      - name: Quantum Computing
+        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+        highlights:
+          - Quantum Teleportation
+          - Quantum Cryptography
+        start_date: 2018-01-01
+        end_date: 2018-01-01
+
+    References:
+      - name: Professor John Doe
+        icon: fa-solid fa-laptop
+        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+
+      - name: Professor Jane Smith
+        icon: fa-solid fa-thumbtack
+        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
