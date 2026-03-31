@@ -3,12 +3,12 @@ cv:
   headline: M.S. Student in Information and Communication Engineering
   email: jackeygong2002@gmail.com
   location: Guangzhou, China
-  photo: "prof_pic.jpg"
+  photo: "assets/img/prof_pic.jpg"
   # summary: M.S. student in Information and Communication Engineering at South China University of Technology, working on 3D generative modeling, LLM-driven structured generation, and physically grounded 3D generation.
 
   social_networks:
     - network: GitHub
-      username: prof_pic.jpg
+      username: eesjgong
 
   # address:
   #   street: 381 Wushan Road
@@ -119,7 +119,6 @@ cv:
           - "Ministry of Education of the People's Republic of China"
         date: 2025-01-01
         awarder: Ministry of Education of the People's Republic of China
-        url: ""
         summary: Prestigious national-level scholarship awarded for outstanding academic performance.
 
       - title: Special Scholarship, GAC Scholarship
@@ -127,7 +126,6 @@ cv:
           - "South China University of Technology"
         date: 2023-01-01
         awarder: South China University of Technology
-        url: ""
         summary: Scholarship awarded for outstanding academic achievement.
 
       - title: Finalist Award, Mathematical Contest in Modeling (MCM/ICM), COMAP
@@ -135,7 +133,6 @@ cv:
           - "COMAP"
         date: 2023-01-01
         awarder: COMAP
-        url: ""
         summary: Finalist Award (top 2%) in the Mathematical Contest in Modeling.
 
       - title: Top Special Scholarship, Goodix Technology Scholarship
@@ -143,7 +140,6 @@ cv:
           - "South China University of Technology"
         date: 2022-01-01
         awarder: South China University of Technology
-        url: ""
         summary: Scholarship awarded for outstanding academic achievement.
 
       - title: Second Prize, Guangdong Division, China Undergraduate Mathematical Contest in Modeling
@@ -151,7 +147,6 @@ cv:
           - "China Undergraduate Mathematical Contest in Modeling"
         date: 2022-01-01
         awarder: China Undergraduate Mathematical Contest in Modeling
-        url: ""
         summary: Provincial-level second prize in mathematical modeling competition.
 
       - title: National Scholarship
@@ -159,7 +154,6 @@ cv:
           - "Ministry of Education of the People's Republic of China"
         date: 2021-01-01
         awarder: Ministry of Education of the People's Republic of China
-        url: ""
         summary: Prestigious national-level scholarship awarded for outstanding academic performance.
 
     Publications:
@@ -175,7 +169,6 @@ cv:
           - Tianshui Chen
         publisher: International Conference on Learning Representations (ICLR)
         releaseDate: 2026-01-01
-        url: ""
         summary: First-author work on long-horizon Text-to-CAD generation using hierarchical and geometry-aware graph representations to guide CAD action generation and executable code synthesis.
 
       - title: Monocular and Generalizable Gaussian Talking Head Animation
@@ -190,7 +183,6 @@ cv:
           - Zhuoman Liu
         publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
         releaseDate: 2025-01-01
-        url: ""
         summary: First-author work on monocular and generalizable Gaussian talking head animation for high-fidelity digital human generation.
 
       - title: "KMTalk: Speech-Driven 3D Facial Animation with Key Motion Embedding"
@@ -204,7 +196,6 @@ cv:
           - Shuangping Huang
         publisher: European Conference on Computer Vision (ECCV)
         releaseDate: 2024-01-01
-        url: ""
         summary: Co-first-author work on speech-driven 3D facial animation with key motion embedding.
 
       - title: "A Unified Framework of Multi-Stage Multi-Winner Voting: An Axiomatic Exploration"
@@ -219,7 +210,6 @@ cv:
           - Chunxue Yang
         publisher: International Conference on Mathematical Optimization Theory and Operations Research (MOTOR)
         releaseDate: 2024-01-01
-        url: ""
         summary: Axiomatic study of multi-stage multi-winner voting frameworks.
 
       - title: "Enhancing Feature Extraction in DBNet: A Novel Approach with Squeeze-and-Excitation Block and CBAM Module"
@@ -228,7 +218,6 @@ cv:
           - Xinwei Zheng
         publisher: 2023 IEEE 5th International Conference on Civil Aviation Safety and Information Technology (ICCASIT)
         releaseDate: 2023-01-01
-        url: ""
         summary: Improvement of DBNet for scene text and digit detection through SE and CBAM integration.
 
       - title: Intelligent Advertisement Recommendation Software Based on Keyword Extraction and Cosine Similarity Algorithm
@@ -236,7 +225,6 @@ cv:
           - Shengjie Gong
         publisher: Information Technology and Informatization
         releaseDate: 2022-01-01
-        url: ""
         summary: Early work on intelligent advertisement recommendation based on keyword extraction and cosine similarity.
 
     Skills:
