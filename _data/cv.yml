@@ -222,7 +222,7 @@ cv:
         url: ""
         summary: Axiomatic study of multi-stage multi-winner voting frameworks.
 
-      - title: Enhancing Feature Extraction in DBNet: A Novel Approach with Squeeze-and-Excitation Block and CBAM Module
+      - title: "Enhancing Feature Extraction in DBNet: A Novel Approach with Squeeze-and-Excitation Block and CBAM Module"
         authors:
           - Shengjie Gong
           - Xinwei Zheng
