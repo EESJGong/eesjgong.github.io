@@ -3,7 +3,7 @@ cv:
   headline: M.S. Student in Information and Communication Engineering
   email: jackeygong2002@gmail.com
   location: Guangzhou, China
-  photo: prof_pic.jpg
+  photo: "assets/img/prof_pic.jpg"
   # summary: M.S. student in Information and Communication Engineering at South China University of Technology, working on 3D generative modeling, LLM-driven structured generation, and physically grounded 3D generation.
 
   social_networks:
