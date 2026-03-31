@@ -45,7 +45,7 @@ cv:
           - "Outstanding academic performance in undergraduate study"
           - "Ranked 1st among 54 students"
 
-    Experience:
+    Experience & Projects:
       - company: South China University of Technology
         position: Project Lead / First Author, Research on Text-to-CAD Generation
         location: Guangzhou, China
@@ -277,19 +277,19 @@ cv:
         icon: fa-solid fa-tag
         keywords: "LLM-based Agents, World Models, Physically Grounded 3D Generation"
 
-    Certificates:
-      - name: ""
-        date: ""
-        issuer: ""
-        icon: fa-solid fa-certificate
+    # Certificates:
+    #   - name: ""
+    #     date: ""
+    #     issuer: ""
+    #     icon: fa-solid fa-certificate
 
-    Projects:
-      - name: ""
-        summary: ""
-        highlights:
-          - ""
-        start_date: ""
-        end_date: ""
+    # Projects:
+    #   - name: ""
+    #     summary: ""
+    #     highlights:
+    #       - ""
+    #     start_date: ""
+    #     end_date: ""
 
     References:
       - name: Prof. Shuangping Huang
